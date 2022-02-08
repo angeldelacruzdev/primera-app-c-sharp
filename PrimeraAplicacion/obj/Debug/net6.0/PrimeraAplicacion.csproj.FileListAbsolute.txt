@@ -1,0 +1,15 @@
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.exe
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.deps.json
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.runtimeconfig.json
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.dll
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\ref\PrimeraAplicacion.dll
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.pdb
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.csproj.AssemblyReference.cache
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.AssemblyInfoInputs.cache
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.AssemblyInfo.cs
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.dll
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\ref\PrimeraAplicacion.dll
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.pdb
+D:\Windows\repos\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.genruntimeconfig.cache
